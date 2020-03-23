@@ -1,4 +1,11 @@
-# web
+# karmakurier - nach dem Hackathon
+
+das Original mit Einreichung für den #WirVsVirus Hackathon liegt hier:
+
+https://github.com/fjw/karmakurier
+
+
+--- 
 
 ## Project setup
 ```
