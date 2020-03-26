@@ -3,8 +3,7 @@ import VueRouter from "vue-router";
 
 // ---------------------------------------------------------
 
-
-import Home from "../components/views/Home.vue";
+import Home from "./views/Home.vue";
 
 // ---------------------------------------------------------
 
