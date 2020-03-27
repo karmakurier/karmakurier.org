@@ -1,0 +1,5 @@
+{
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "prettier.bracketSpacing": false,
+    "javascript.format.insertSpaceAfterConstructor": true
+}
